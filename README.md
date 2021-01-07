@@ -7,4 +7,4 @@
 | Birthday            | 21/08         |
 | Favourite colour    | Green         |
 | Favourite Food      | Aubergine     |
-| Pineapple on pizzas | [x]           |
+| Pineapple on pizzas | -  [x]        |
